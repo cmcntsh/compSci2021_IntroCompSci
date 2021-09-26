@@ -6,9 +6,9 @@ This week we're reviewing some computer science fundamental concepts outside of 
 
 ## Exercises
 
-* Python modules and packages tutorial https://github.com/cmcntsh/exerPythModPackTutorial
-* Python OS module tutorial https://github.com/cmcntsh/exerPythOsTutorial
-* Python files tutorial https://github.com/cmcntsh/exerPythFilesTutorial
+* (old, probably won't use again) Python modules and packages tutorial https://github.com/cmcntsh/exerPythModPackTutorial
+* (maybe move to week 4) Python OS module tutorial https://github.com/cmcntsh/exerPythOsTutorial
+* (maybe move to week 4) Python files tutorial https://github.com/cmcntsh/exerPythFilesTutorial
 
 ## Assigned Instructional Material
 
