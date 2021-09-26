@@ -6,6 +6,10 @@ This week we're reviewing some computer science fundamental concepts outside of 
 
 ## Exercises
 
+* Educative - Learn Python 3 from Scratch - Introduction https://github.com/cmcntsh/exerPythEdBasIntro
+* Educative - Learn Python 3 from Scratch - Data Types and Variables https://github.com/cmcntsh/exerPythEdBasTypesVariable
+* Educative - Learn Python 3 from Scratch - Conditional Statements https://github.com/cmcntsh/exerPythEdBasConditionals
+* Educative - Learn Python 3 from Scratch - Functions https://github.com/cmcntsh/exerPythEdBasFunctions
 * (old, probably won't use again) Python modules and packages tutorial https://github.com/cmcntsh/exerPythModPackTutorial
 * (maybe move to week 4) Python OS module tutorial https://github.com/cmcntsh/exerPythOsTutorial
 * (maybe move to week 4) Python files tutorial https://github.com/cmcntsh/exerPythFilesTutorial
