@@ -28,3 +28,6 @@ This week we're reviewing some computer science fundamental concepts outside of 
 
 * These are well worth watching! Crash course computer science (41 videos 7 hours 54 min): https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 * Free text available online. Introduction to Data Technologies by Paul Murrell https://www.stat.auckland.ac.nz/~paul/ItDT/
+* Executing Python code online 
+  * You can open a Jupyter Notebook on Kaggle.com. https://www.kaggle.com/code (Links to an external site.)
+  * You can also open an IDE on GitHub. GitHub - open a repository or create a new one - Code - Open in GitHub Desktop.
